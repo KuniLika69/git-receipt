@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="430" viewBox="0 0 420 430" role="img" aria-labelledby="title desc">
+  <title id="title">Git receipt for KuniLika666</title>
+  <desc id="desc">3 commits, 3 files touched, 6 lines added, 1 lines removed.</desc>
+
+  <defs><pattern id="grit" width="47" height="31" patternUnits="userSpaceOnUse"><path d="M1 6h4m31 4h2M13 22h6m24 6h3M25 15h2" stroke="#ded8bd" opacity=".13"/><path d="M2 26h9M18 2h7m8 17h10" stroke="#151412" opacity=".45"/></pattern></defs>
+  <rect width="420" height="430" rx="16" fill="#1c1b19"/>
+  <path d="M19 25l54-9 71 9 67-4 54 8 66-12 70 12-7 71 6 92-6 83 7 117-58-2-66 12-54-6-76 13-52-8-63 4-14-51 5-87-8-73 6-89Z" fill="#37342e"/>
+  <rect x="30" y="32" width="360" height="359" fill="url(#grit)"/>
+  <path d="M33 183l350-25M40 337l342-11" stroke="#151412" opacity=".27"/>
+  <path d="M352 47l20 2-2 15-20-2Z" fill="#b79163" opacity=".75"/>
+  <g font-family="Consolas, DejaVu Sans Mono, monospace" fill="#eae4d8">
+    <text x="46" y="60" font-size="12" fill="#bbb1a0">LOCAL GIT HISTORY</text>
+    <text x="44" y="101" font-weight="bold" font-size="36">COMMIT RECEIPT</text>
+    <text x="46" y="134" font-size="17" font-weight="bold">KuniLika666</text>
+    <text x="46" y="155" font-size="12" fill="#bbb1a0">SINCE 7 days ago</text>
+    <path d="M46 174H374 M46 327H374" stroke="#bbb1a0" stroke-dasharray="4 5" opacity=".7"/>
+    <g font-size="15">
+    <text x="46" y="204">COMMITS</text>
+    <text x="374" y="204" text-anchor="end" fill="#eae4d8" font-weight="bold">3</text>
+    <text x="46" y="236">FILES TOUCHED</text>
+    <text x="374" y="236" text-anchor="end" fill="#eae4d8" font-weight="bold">3</text>
+    <text x="46" y="268">LINES ADDED</text>
+    <text x="374" y="268" text-anchor="end" fill="#c1db99" font-weight="bold">+6</text>
+    <text x="46" y="300">LINES REMOVED</text>
+    <text x="374" y="300" text-anchor="end" fill="#f5a284" font-weight="bold">−1</text>
+    </g>
+    <g aria-hidden="true"><rect x="46" y="353" width="2" height="24"/><rect x="51" y="353" width="4" height="24"/><rect x="56" y="353" width="1" height="24"/><rect x="61" y="353" width="3" height="24"/><rect x="66" y="353" width="2" height="24"/><rect x="71" y="353" width="1" height="24"/><rect x="76" y="353" width="4" height="24"/><rect x="81" y="353" width="3" height="24"/><rect x="86" y="353" width="1" height="24"/><rect x="91" y="353" width="2" height="24"/><rect x="96" y="353" width="4" height="24"/><rect x="101" y="353" width="1" height="24"/><rect x="106" y="353" width="3" height="24"/><rect x="111" y="353" width="2" height="24"/><rect x="116" y="353" width="4" height="24"/><rect x="121" y="353" width="1" height="24"/></g>
+    <text x="374" y="371" text-anchor="end" font-size="12">THANKS FOR COMMITTING</text>
+  </g>
+</svg>
